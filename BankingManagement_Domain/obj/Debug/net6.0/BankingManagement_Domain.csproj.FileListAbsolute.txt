@@ -1,0 +1,12 @@
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\bin\Debug\net6.0\BankingManagement_Domain.deps.json
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\bin\Debug\net6.0\BankingManagement_Domain.dll
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\bin\Debug\net6.0\BankingManagement_Domain.pdb
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.csproj.AssemblyReference.cache
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.AssemblyInfoInputs.cache
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.AssemblyInfo.cs
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.csproj.CoreCompileInputs.cache
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.dll
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\refint\BankingManagement_Domain.dll
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\BankingManagement_Domain.pdb
+C:\Users\ausu\Desktop\SG\SG\BankingManagement\BankingManagement_Domain\obj\Debug\net6.0\ref\BankingManagement_Domain.dll
